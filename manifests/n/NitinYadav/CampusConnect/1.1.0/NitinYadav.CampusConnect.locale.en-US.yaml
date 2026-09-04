@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+PackageIdentifier: NitinYadav.CampusConnect
+PackageVersion: 1.1.0
+PackageLocale: en-US
+Publisher: Nitin Yadav
+PublisherUrl: https://nitinyadav.xyz/
+PublisherSupportUrl: https://github.com/nitinya9av/campus-connect/issues
+PackageName: Campus Connect
+PackageUrl: https://nitinyadav.xyz/campus-connect/
+License: MIT
+LicenseUrl: https://raw.githubusercontent.com/nitinya9av/campus-connect/master/LICENSE
+ShortDescription: Automated Wi-Fi captive portal auto-login utility for Central University of Rajasthan (CURAJ).
+Description: Campus Connect is a lightweight, open-source client-side automation utility for students and faculty of Central University of Rajasthan (CURAJ) to solve captive portal session timeouts.
+Moniker: campus-connect
+Tags:
+  - wifi
+  - captive-portal
+  - curaj
+  - automation
+  - network
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
